@@ -30,6 +30,10 @@ textarea{
   border-radius: 15px;
 }
 
+.timeblocks {
+  margin-bottom: 2rem;
+}
+
 .row {
   white-space: pre-wrap;
   height: 80px;
